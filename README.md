@@ -1,1 +1,1 @@
-My personal website in progress of update
+Hi! You are looking at the GitHub repo of my personal website, which currently hosts my [blog](https://gillianzhaoxz.github.io/web/blog-by-categories/) and [portfolio](https://gillianzhaoxz.github.io/web/my-portfolio/). Please navigate [here](https://gillianzhaoxz.github.io/web/) to the main page.

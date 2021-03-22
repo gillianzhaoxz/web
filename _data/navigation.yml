@@ -43,8 +43,8 @@ sidebar-portfolio:
     children:
       - title: "Transportation Factsheet"
         url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-transportation-factsheet/
-      - title: "Neighborhood Plan"
-        url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-atlanta-plan/
+      # - title: "Neighborhood Plan"
+      # url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-atlanta-plan/
       - title: "Area Improvement Plan"
         url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-nprospect-plan/
       - title: "Mixed-Use Development Proposal"
