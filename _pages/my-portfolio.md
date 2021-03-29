@@ -174,6 +174,15 @@ fr_floodModel:
     btn_label: "Read more"
     btn_class: "btn--inverse btn--small"
 
+fr_sfBusiness:
+  - image_path: /assets/images/portfolio-sf-business-trend.png
+    alt: "Website screenshot"
+    title: "JavaScript: San Francisco Business Trends"
+    excerpt: "A web map that zooms to the "business hub" for each industry"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-sf-business-trend/"
+    btn_label: "Read more"
+    btn_class: "btn--inverse btn--small"
+
 ---
 
 
@@ -203,7 +212,7 @@ or navigate by **skills** *using the panel on the right*.
 {% include feature_row id="fr_info490" type="left" %}
 
 ## Javascript
-I am currently taking a Javascript for Maps course and will hopefully have something proud to show by the end of the semester.
+{% include feature_row id="fr_sfBusiness" type="left" %}
 
 # Geographic Information System
 ## ArcGIS
