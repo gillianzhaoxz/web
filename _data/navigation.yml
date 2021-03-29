@@ -15,7 +15,7 @@ main:
 sidebar-portfolio:
   - title: "Statistical & Spatial Analysis"
     children:
-     - title: "Flood Prediction"
+      - title: "Flood Prediction"
         url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-calgary-flood/
       - title: "Risk Prediction"
         url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/
