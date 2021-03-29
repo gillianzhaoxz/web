@@ -11,7 +11,7 @@ layout: single
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Modeling approach comparison</figcaption>
+  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
 </figure>
 
 In a team of two, we developed a predictive model that predicts the probability that an area will be inundated with flood water. The report explains the planning motivation as well as illustrate the environment features, model performance, and prediction results.
