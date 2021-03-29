@@ -164,6 +164,15 @@ fr_taxMemo:
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-tax-policymemo/"
     btn_label: "Read more"
     btn_class: "btn--inverse btn--small"
+
+fr_floodModel:
+  - image_path: /assets/images/portfolio-calgary-flood.png
+    alt: "Modeling approach comparison"
+    title: "Spatial Analysis: Flood Inundation Prediction"
+    excerpt: "A environmental risk model that predicts the probability that an area will be inundated with flood water"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-calgary-flood/"
+    btn_label: "Read more"
+    btn_class: "btn--inverse btn--small"
 ---
 
 
@@ -175,6 +184,8 @@ or navigate by **skills** *using the panel on the right*.
 
 # Programming
 ## R
+{% include feature_row id="fr_floodModel" type="left" %}
+
 {% include feature_row id="fr_508predhero" type="left" %}
 
 {% include feature_row id="fr_508indego" type="left" %}
@@ -195,6 +206,8 @@ I am currently taking a Javascript for Maps course and will hopefully have somet
 
 # Geographic Information System
 ## ArcGIS
+{% include feature_row id="fr_floodModel" type="left" %}
+
 {% include feature_row id="fr_capstone" type="left" %}
 
 ## QGIS
@@ -202,6 +215,8 @@ I am currently taking a Javascript for Maps course and will hopefully have somet
 
 # Design
 ## Adobe InDesign
+{% include feature_row id="fr_floodModel" type="left" %}
+
 {% include feature_row id="fr_factsheet" type="left" %}
 
 {% include feature_row id="fr_capstone" type="left" %}
