@@ -14,7 +14,7 @@ layout: single
   <figcaption>Modeling approach comparison</figcaption>
 </figure>
 
-<iframe seamless src="/assets/html/SF-Business-Trend/index.html" width="100%" height="300"></iframe>
+<iframe seamless src="/assets/doc/SF-Business-Trend/index.html" width="100%" height="300"></iframe>
 
 In a team of two, we developed a predictive model that predicts the probability that an area will be inundated with flood water. The report explains the planning motivation as well as illustrate the environment features, model performance, and prediction results.
 
