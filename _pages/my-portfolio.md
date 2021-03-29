@@ -178,7 +178,7 @@ fr_sfBusiness:
   - image_path: /assets/images/portfolio-sf-business-trend.png
     alt: "Website screenshot"
     title: "JavaScript: San Francisco Business Trends"
-    excerpt: "A web map that zooms to the "business hub" for each industry"
+    excerpt: "A web map that zooms to the 'business hub' for each industry"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-sf-business-trend/"
     btn_label: "Read more"
     btn_class: "btn--inverse btn--small"
