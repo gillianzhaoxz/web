@@ -55,6 +55,8 @@ sidebar-portfolio:
         url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-neil-st-plaza/
   - title: "Others"
     children:
+      - title: "Web Mapping"
+        url:  https://gillianzhaoxz.github.io/web/portfolio/portfolio-sf-business-trend/
       - title: "Python"
         url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-python-info490/
       - title: "Data Visualization"

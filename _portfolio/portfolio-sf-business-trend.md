@@ -4,6 +4,8 @@ excerpt:
 header:
   teaser: /assets/images/portfolio-sf-business-trend.png
 layout: single
+classes: wide
+
 ---
 {% capture fig_img %}
 ![Website screenshot]({{ "/assets/images/portfolio-sf-business-trend.png" | relative_url }})
