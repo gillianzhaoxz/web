@@ -3,7 +3,8 @@ title: "JavaScript: San Francisco Business Trends"
 excerpt: 
 header:
   teaser: /assets/images/portfolio-sf-business-trend.png
-layout: wide
+layout: single
+classes: wide
 
 ---
 {% capture fig_img %}
