@@ -20,8 +20,6 @@ In a team of two, we developed a predictive model that predicts the probability 
 
 Specifically, I used hydrology tools in _ArcGIS_ to turn digital elevation models (DEM) into an ordered network of streams and watersheds. From there I was able to create environment and hydrological features such as slope, basin, and distance to downstream. Then in _R studio_ I created fishnet grid areas as well as developed more meaningful variables such as distance to nearest slope and categorized slopes. After my teammate developed and validated the model, I double-checked as well as conducted spatial cross-validation. Finally, I adjusted the visualizations and turned everything into a report in _InDesign_.
 
-[Narrated Presentation](https://youtu.be/mUIs2zT6vXo){: .btn .btn--info}
-
-[View Report](https://github.com/gillianzhaoxz/web/blob/master/assets/doc/calgary_floodReport.pdf){: .btn .btn--info}
+[Webpage](/assets/doc/SF-Business-Trend/index.html){: .btn .btn--info}
 
 _disclamer: this project is a part of a graduate course_
