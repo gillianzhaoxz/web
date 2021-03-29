@@ -18,6 +18,6 @@ A (fictional) policy memo for the implementation of a city-level internet sales 
 
 The intended audience is the elected officials in the city. The memo is to communicate a complex fiscal matter and its policy ramifications to a busy decision-maker.
 
-[Download Document](https://gillianzhaoxz.github.io/web/assets/images/internetTax_policyMemo.pdf){: .btn .btn--info}
+[Document](https://github.com/gillianzhaoxz/web/blob/master/assets/doc/internetTax_policyMemo.pdf){: .btn .btn--info}
 
-_disclamer: this project is a part of a graduate course_
+_disclamer: this project is a part of a graduate-level course_
