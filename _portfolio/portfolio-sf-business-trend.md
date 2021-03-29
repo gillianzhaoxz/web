@@ -6,19 +6,21 @@ header:
 layout: single
 ---
 {% capture fig_img %}
-![Modeling approach comparison: kernel density vs environmental risk]({{ "/assets/images/portfolio-calgary-flood.png" | relative_url }})
+![Website screenshot]({{ "/assets/images/portfolio-calgary-flood.png" | relative_url }})
 {% endcapture %}
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Modeling approach comparison</figcaption>
+  <figcaption>Website screenshot</figcaption>
 </figure>
+
+<embed type="text/html" src="https://gillianzhaoxz.github.io/web/assets/doc/SF-Business-Trend/index.html"  width="500" height="200">
+
+<embed type="text/html" src="https://github.com/gillianzhaoxz/web/blob/5ea19c5b5e5865daed206b115f4e72f0d4feeb4c/assets/doc/SF-Business-Trend/index.html"  width="500" height="200">
 
 <iframe seamless src="https://gillianzhaoxz.github.io/web/assets/doc/SF-Business-Trend/index.html" width="100%" height="300"></iframe>
 
-In a team of two, we developed a predictive model that predicts the probability that an area will be inundated with flood water. The report explains the planning motivation as well as illustrate the environment features, model performance, and prediction results.
-
-Specifically, I used hydrology tools in _ArcGIS_ to turn digital elevation models (DEM) into an ordered network of streams and watersheds. From there I was able to create environment and hydrological features such as slope, basin, and distance to downstream. Then in _R studio_ I created fishnet grid areas as well as developed more meaningful variables such as distance to nearest slope and categorized slopes. After my teammate developed and validated the model, I double-checked as well as conducted spatial cross-validation. Finally, I adjusted the visualizations and turned everything into a report in _InDesign_.
+Sourcing from the city's registered business data and with Leaflet, I built this online map to familiarize users with the business scene at SF, whether it is for market research, way-finding, or just for fun. The map will automatically zoom to the "business hub" for each industry.
 
 [Webpage](https://gillianzhaoxz.github.io/web/assets/doc/SF-Business-Trend/index.html){: .btn .btn--info}
 
