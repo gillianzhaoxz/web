@@ -184,7 +184,7 @@ fr_sfBusiness:
     btn_class: "btn--inverse btn--small"
 
 fr_altsWatch:
-  - image_path: /assets/images/portfolio-portfolio-altsWatch.png
+  - image_path: /assets/images/portfolio-altsWatch.png
     alt: "Simple illustration"
     title: "Writing: Contributer to a Daily News Platform"
     excerpt: "Drafted some stories for Alternatives Watch, a daily news platform that covers the rapidly evolving world of alternative investments geared toward institutional investors"
