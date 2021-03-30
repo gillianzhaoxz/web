@@ -182,6 +182,15 @@ fr_sfBusiness:
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-sf-business-trend/"
     btn_label: "Read more"
     btn_class: "btn--inverse btn--small"
+
+fr_altsWatch:
+  - image_path: /assets/images/portfolio-portfolio-altsWatch.png
+    alt: "Simple illustration"
+    title: "Writing: Contributer to a Daily News Platform"
+    excerpt: "Drafted some stories for Alternatives Watch, a daily news platform that covers the rapidly evolving world of alternative investments geared toward institutional investors"
+    url: "https://www.alternativeswatch.com/author/xuezhuzhao/"
+    btn_label: "Read more"
+    btn_class: "btn--inverse btn--small"
 ---
 
 
@@ -259,4 +268,6 @@ or navigate by **skills** *using the panel on the right*.
 {% include feature_row id="fr_ictTransport" type="left" %}
 
 # More
+{% include feature_row id="fr_altsWatch" type="left" %}
+
 For more dated projects, please check out [my old website](https://gillianzhaoxz0.wixsite.com/home/1)
