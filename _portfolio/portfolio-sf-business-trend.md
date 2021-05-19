@@ -16,7 +16,7 @@ classes: wide
   <figcaption>Website screenshot</figcaption>
 </figure>
 
-<!--->
+<!---
 <embed type="text/html" src="https://gillianzhaoxz.github.io/web/assets/doc/SF-Business-Trend/index.html"  width="20%" height=15px>
 --->
 
