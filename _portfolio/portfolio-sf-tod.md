@@ -16,7 +16,9 @@ classes: wide
   <figcaption>Website screenshot</figcaption>
 </figure>
 
+<!---
 <embed type="text/html" src="https://gillianzhaoxz.github.io/web/assets/doc/SF-TOD-DEV/WebMap/home.html"  width="20%" height=15px>
+--->
 
 <br> Sourcing from the city's property tax roll data and BART station data, my group built this online map to illustrate the economic impact of TOD in SF.
 
