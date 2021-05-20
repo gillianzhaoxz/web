@@ -231,7 +231,7 @@ or navigate by **skills** *using the panel on the right*.
 ## Javascript
 {% include feature_row id="fr_sfBusiness" type="left" %}
 
-{% include feature_row id="fr_sfBusiness" type="left" %}
+{% include feature_row id="fr_sfTOD" type="left" %}
 
 # Geographic Information System
 ## ArcGIS
