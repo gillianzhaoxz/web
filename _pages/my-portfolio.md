@@ -215,7 +215,7 @@ fr_sfParking:
     alt: ""
     title: "Spatial Analysis: Modeling Parking Demand in SF"
     excerpt: "A study of how space/time features influence parking behaviors and their implications on planning practice"
-    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-sf-tod/"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-sf-parking/"
     btn_label: "Read more"
     btn_class: "btn--inverse btn--small"
 
