@@ -129,6 +129,15 @@ fr_nprospect:
     btn_label: "Read more"
     btn_class: "btn--inverse btn--small"
 
+fr_workshop:
+  - image_path: /assets/images/portfolio-workshop.png
+    alt: "An example page in the plan showing my work"
+    title: "Strategies and Planning: A Neighborhood Plan in Atlanta"
+    excerpt: "A neighborhood-level plan for the Adair Park and Pittsburgh neighborhoods surrounding COVID recovery and response"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-atlanta-plan/"
+    btn_label: "Read more"
+    btn_class: "btn--inverse btn--small"
+
 fr_suitability:
   - image_path: /assets/images/portfolio-suitability.jpg
     alt: "Suitability poster"
@@ -153,6 +162,15 @@ fr_FIMPC:
     title: "Research and Memo: Policy Brief / Memo for a Flood Inundation Center"
     excerpt: "A (fictional) one-page proposal for the creation of a Regional Flood Inundation Modeling & Planning Center (FIMPC)"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-greatlakes-policybrief/"
+    btn_label: "Read more"
+    btn_class: "btn--inverse btn--small"
+
+fr_675growthmodel:
+  - image_path: /assets/images/portfolio-675growthmodel.png
+    alt: "Prediction result maps"
+    title: "Research and Memo: Urban Growth Modeling for Pittsburgh MSA"
+    excerpt: "A (fictional) growth modeling project which forecasts new development for 2021 through a binary logistic regression model"
+    url: "https://rpubs.com/gxzhao/pittsburghMSAgrowth"
     btn_label: "Read more"
     btn_class: "btn--inverse btn--small"
 
@@ -211,6 +229,8 @@ or navigate by **skills** *using the panel on the right*.
 
 # Programming
 ## R
+{% include feature_row id="fr_675growthmodel" type="left" %}
+
 {% include feature_row id="fr_floodModel" type="left" %}
 
 {% include feature_row id="fr_508predhero" type="left" %}
@@ -244,6 +264,8 @@ or navigate by **skills** *using the panel on the right*.
 
 # Design
 ## Adobe InDesign
+{% include feature_row id="fr_675growthmodel" type="left" %}
+
 {% include feature_row id="fr_floodModel" type="left" %}
 
 {% include feature_row id="fr_factsheet" type="left" %}
@@ -267,6 +289,8 @@ or navigate by **skills** *using the panel on the right*.
 {% include feature_row id="fr_taxMemo" type="left" %}
 
 ## Strategic Planning
+{% include feature_row id="fr_workshop" type="left" %}
+
 {% include feature_row id="fr_nprospect" type="left" %}
 
 {% include feature_row id="fr_midtownPlaza" type="left" %}

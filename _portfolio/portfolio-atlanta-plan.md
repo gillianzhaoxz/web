@@ -2,25 +2,53 @@
 title: "Strategies and Planning: Neighborhood Plan for Adair Park / Pittsburgh, Atlanta"
 excerpt: 
 header:
-  teaser: /assets/images/portfolio-TOD.png
+  teaser: /assets/images/portfolio-workshop.png
 layout: single
 ---
 
-This page is under development
+In a group of six, we prepared a neighborhood-level plan for two neighborhoods, Adair Park and Pittsburgh, in Southwest Atlanta. Both neighborhoods are communities with strong historical roots that are facing significant development pressure, and during this year of COVID impacts, we conducted analysis to understand underlying conditions and developed strategies to aid recovery and response. Our plan, Adair Park and Pittsburgh 2030, outlines a path forward that would be driven by --and anchored in-- the existing community. The aim is to ensure that the future is bright not only for new residents but also for the longtime residents of Adair Park and Pittsburgh.
 
-<!--
+While our work are collaborative in nature, the following showcase my work the most.
+### Environment and Recreation Strategies
 {% capture fig_img %}
-![Graduate symbol map of median rent within 0.5mi. of CTA stations]({{ "/assets/images/portfolio-TOD.png" | relative_url }})
+![An example page in the plan showing my work]({{ "assets\doc\Atlanta-workshop\EnvironmentRecreationStrategies_Page_1.png" | relative_url }})
 {% endcapture %}
-
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Graduate symbol map of median rent within 0.5mi. of CTA stations</figcaption>
+  <figcaption>An example page in the plan showing my work</figcaption>
 </figure>
 
-Transit Oriented Development has been a trend that promotes more housing and mixed-use amenities near public transportation. While such development can potentially increase efficiency of transit system operation, it can also be beneficial for land value capitalization which would generate more property tax revenue for the city. To examine whether TOD development would be suitable for our city, we studied TOD in Chicago by comparing socio-demographic information, rent, and crime data between TOD and non-TOD areas across 2009 and 2017. We also examined the relationship between distance to transit stations and rent.
+{% capture fig_img %}
+![An example page in the plan showing my work]({{ "assets\doc\Atlanta-workshop\EnvironmentRecreationStrategies_Page_2.png" | relative_url }})
+{% endcapture %}
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>An example page in the plan showing my work</figcaption>
+</figure>
 
-[Analysis](https://gillianzhaoxz.github.io/508_html/ChicagoTOD.html){: .btn .btn--info}
+{% capture fig_img %}
+![An example page in the plan showing my work]({{ "assets\doc\Atlanta-workshop\EnvironmentRecreationStrategies_Page_3.png" | relative_url }})
+{% endcapture %}
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>An example page in the plan showing my work</figcaption>
+</figure>
+
+{% capture fig_img %}
+![An example page in the plan showing my work]({{ "assets\doc\Atlanta-workshop\EnvironmentRecreationStrategies_Page_4.png" | relative_url }})
+{% endcapture %}
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>An example page in the plan showing my work</figcaption>
+</figure>
+
+### Economic Strategies
+
+### Community Strategies
+
+
+I have also included the whole plan book here, which contains Existing Conditions ("Adair Park and Pittsburgh Today"), Goal Fevelopment, Altenatives, Plan Recommendations, and implementation timeline ("Looking Ahead").
+
+[View Plan](https://github.com/gillianzhaoxz/web/blob/master/assets/doc/workshopAtlanta_planBook.pdf){: .btn .btn--info}
 
 _disclamer: this project is a part of a graduate course_
---!>
