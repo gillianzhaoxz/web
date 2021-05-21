@@ -2,7 +2,7 @@
 title: "Strategies and Planning: Neighborhood Plan for Adair Park / Pittsburgh, Atlanta"
 excerpt: 
 header:
-  teaser: /assets/images/portfolio-workshop.png
+  teaser: /assets/images/workshop.gif
 layout: single
 ---
 

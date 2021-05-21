@@ -130,7 +130,7 @@ fr_nprospect:
     btn_class: "btn--inverse btn--small"
 
 fr_workshop:
-  - image_path: /assets/images/portfolio-workshop.png
+  - image_path: /assets/images/workshop.gif
     alt: "An example page in the plan showing my work"
     title: "Strategies and Planning: A Neighborhood Plan in Atlanta"
     excerpt: "A neighborhood-level plan for the Adair Park and Pittsburgh neighborhoods surrounding COVID recovery and response"
