@@ -15,7 +15,6 @@ While our work are collaborative in nature, the following showcase my work the m
 {% endcapture %}
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
 </figure>
 
 {% capture fig_img %}
@@ -23,7 +22,6 @@ While our work are collaborative in nature, the following showcase my work the m
 {% endcapture %}
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
 </figure>
 
 {% capture fig_img %}
@@ -31,7 +29,6 @@ While our work are collaborative in nature, the following showcase my work the m
 {% endcapture %}
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
 </figure>
 
 {% capture fig_img %}
@@ -39,7 +36,6 @@ While our work are collaborative in nature, the following showcase my work the m
 {% endcapture %}
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
 </figure>
 
 ### Economic Strategies
@@ -62,7 +58,6 @@ While our work are collaborative in nature, the following showcase my work the m
 {% endcapture %}
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
 </figure>
 
 {% capture fig_img %}
@@ -70,7 +65,6 @@ While our work are collaborative in nature, the following showcase my work the m
 {% endcapture %}
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
 </figure>
 
 {% capture fig_img %}
@@ -78,7 +72,6 @@ While our work are collaborative in nature, the following showcase my work the m
 {% endcapture %}
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
 </figure>
 
 ### Community Strategies
@@ -87,7 +80,6 @@ While our work are collaborative in nature, the following showcase my work the m
 {% endcapture %}
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
 </figure>
 
 {% capture fig_img %}
@@ -95,7 +87,6 @@ While our work are collaborative in nature, the following showcase my work the m
 {% endcapture %}
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
 </figure>
 
 {% capture fig_img %}
@@ -103,7 +94,6 @@ While our work are collaborative in nature, the following showcase my work the m
 {% endcapture %}
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
 </figure>
 
 {% capture fig_img %}
@@ -111,7 +101,6 @@ While our work are collaborative in nature, the following showcase my work the m
 {% endcapture %}
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
 </figure>
 
 {% capture fig_img %}
@@ -119,7 +108,13 @@ While our work are collaborative in nature, the following showcase my work the m
 {% endcapture %}
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
+</figure>
+
+{% capture fig_img %}
+![An example page in the plan showing my work]({{ "assets/doc/Atlanta-workshop/CommunityStrategies_Page_6.png" | relative_url }})
+{% endcapture %}
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
 </figure>
 
 
