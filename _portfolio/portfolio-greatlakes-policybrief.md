@@ -19,7 +19,7 @@ A (fictional) one-page proposal for the creation of a Regional Flood Inundation 
 The intended audience is the elected officials in the region. The policy brief / memo is to communicate a complex technical matter and its policy ramifications to a busy decision-maker.
 
 <embed
-  src="http://https://github.com/gillianzhaoxz/web/blob/master/assets/doc/policyBrief_FIMPC.pdf#toolbar=0&navpanes=0&scrollbar=0"
+  src="http://github.com/gillianzhaoxz/web/blob/master/assets/doc/policyBrief_FIMPC.pdf#toolbar=0&navpanes=0&scrollbar=0"
   width="425" height="425" />
 
 [View Document](https://github.com/gillianzhaoxz/web/blob/master/assets/doc/policyBrief_FIMPC.pdf){: .btn .btn--info}
