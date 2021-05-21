@@ -13,60 +13,114 @@ While our work are collaborative in nature, the following showcase my work the m
 {% capture fig_img %}
 ![An example page in the plan showing my work]({{ "assets/doc/Atlanta-workshop/EnvironmentRecreationStrategies_Page_1.png" | relative_url }})
 {% endcapture %}
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
+</figure>
 
 {% capture fig_img %}
 ![An example page in the plan showing my work]({{ "assets/doc/Atlanta-workshop/EnvironmentRecreationStrategies_Page_2.png" | relative_url }})
 {% endcapture %}
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
+</figure>
 
 {% capture fig_img %}
 ![An example page in the plan showing my work]({{ "assets/doc/Atlanta-workshop/EnvironmentRecreationStrategies_Page_3.png" | relative_url }})
 {% endcapture %}
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
+</figure>
 
 {% capture fig_img %}
 ![An example page in the plan showing my work]({{ "assets/doc/Atlanta-workshop/EnvironmentRecreationStrategies_Page_4.png" | relative_url }})
 {% endcapture %}
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
+</figure>
 
 ### Economic Strategies
 {% capture fig_img %}
 ![An example page in the plan showing my work]({{ "assets/doc/Atlanta-workshop/EconomicStrategies_Page_1.png" | relative_url }})
 {% endcapture %}
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+</figure>
 
 {% capture fig_img %}
 ![An example page in the plan showing my work]({{ "assets/doc/Atlanta-workshop/EconomicStrategies_Page_2.png" | relative_url }})
 {% endcapture %}
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+</figure>
 
 {% capture fig_img %}
 ![An example page in the plan showing my work]({{ "assets/doc/Atlanta-workshop/EconomicStrategies_Page_3.png" | relative_url }})
 {% endcapture %}
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
+</figure>
 
 {% capture fig_img %}
 ![An example page in the plan showing my work]({{ "assets/doc/Atlanta-workshop/EconomicStrategies_Page_4.png" | relative_url }})
 {% endcapture %}
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
+</figure>
 
 {% capture fig_img %}
 ![An example page in the plan showing my work]({{ "assets/doc/Atlanta-workshop/EconomicStrategies_Page_5.png" | relative_url }})
 {% endcapture %}
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
+</figure>
 
 ### Community Strategies
 {% capture fig_img %}
 ![An example page in the plan showing my work]({{ "assets/doc/Atlanta-workshop/CommunityStrategies_Page_1.png" | relative_url }})
 {% endcapture %}
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
+</figure>
 
 {% capture fig_img %}
 ![An example page in the plan showing my work]({{ "assets/doc/Atlanta-workshop/CommunityStrategies_Page_2.png" | relative_url }})
 {% endcapture %}
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
+</figure>
 
 {% capture fig_img %}
 ![An example page in the plan showing my work]({{ "assets/doc/Atlanta-workshop/CommunityStrategies_Page_3.png" | relative_url }})
 {% endcapture %}
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
+</figure>
 
 {% capture fig_img %}
 ![An example page in the plan showing my work]({{ "assets/doc/Atlanta-workshop/CommunityStrategies_Page_4.png" | relative_url }})
 {% endcapture %}
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
+</figure>
 
 {% capture fig_img %}
 ![An example page in the plan showing my work]({{ "assets/doc/Atlanta-workshop/CommunityStrategies_Page_5.png" | relative_url }})
 {% endcapture %}
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Modeling approach comparison: kernel density vs environmental risk</figcaption>
+</figure>
 
 
 I have also included the whole plan book here, which contains Existing Conditions ("Adair Park and Pittsburgh Today"), Goal Fevelopment, Altenatives, Plan Recommendations, and implementation timeline ("Looking Ahead").

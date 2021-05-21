@@ -18,7 +18,7 @@ For a quick view of the project, check out this one-pager poster I made in _InDe
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Prediction result maps</figcaption>
+  <figcaption>Poster</figcaption>
 </figure>
 
 For the full report, click on the "view report" button below.
