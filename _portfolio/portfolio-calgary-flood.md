@@ -1,5 +1,5 @@
 ---
-title: "Spatial Analysis: Flood Inundation Prediction"
+title: "Research and Memo: Flood Inundation Prediction"
 excerpt: 
 header:
   teaser: /assets/images/portfolio-credit-allocation.png

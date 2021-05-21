@@ -11,7 +11,7 @@ In a group of six, we prepared a neighborhood-level plan for two neighborhoods, 
 While our work are collaborative in nature, the following showcase my work the most.
 ### Environment and Recreation Strategies
 {% capture fig_img %}
-![An example page in the plan showing my work]({{ "assets\doc\Atlanta-workshop\EnvironmentRecreationStrategies_Page_1.png" | relative_url }})
+![An example page in the plan showing my work]({{ "assets/doc/Atlanta-workshop/EnvironmentRecreationStrategies_Page_1.png" | relative_url }})
 {% endcapture %}
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}

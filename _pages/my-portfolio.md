@@ -170,7 +170,7 @@ fr_675growthmodel:
     alt: "Prediction result maps"
     title: "Research and Memo: Urban Growth Modeling for Pittsburgh MSA"
     excerpt: "A (fictional) growth modeling project which forecasts new development for 2021 through a binary logistic regression model"
-    url: "https://rpubs.com/gxzhao/pittsburghMSAgrowth"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-pittsburgh-growth/"
     btn_label: "Read more"
     btn_class: "btn--inverse btn--small"
 
