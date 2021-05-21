@@ -22,7 +22,7 @@ fr_508predhero:
     btn_class: "btn--inverse btn--small"
 
 fr_508indego:
-  - image_path: /assets/images/portfolio-indego-bikeshare.png
+  - image_path: /assets/images/508bikepickup.gif
     alt: "Bikeshare demand error map illustration"
     title: "Spatial Analysis: Indego Bikeshare Prediction Project"
     excerpt: "A geospatial (+ time lag) model for an Indego bike-share prediction use case"

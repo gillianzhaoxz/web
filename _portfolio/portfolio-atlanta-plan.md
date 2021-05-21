@@ -38,7 +38,7 @@ While our work are collaborative in nature, the following showcase my work the m
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
 </figure>
 
-### Economic Strategies
+### Economic Development Strategies
 {% capture fig_img %}
 ![An example page in the plan showing my work]({{ "assets/doc/Atlanta-workshop/EconomicStrategies_Page_1.png" | relative_url }})
 {% endcapture %}
