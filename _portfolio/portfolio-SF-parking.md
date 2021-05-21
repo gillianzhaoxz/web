@@ -2,11 +2,11 @@
 title: "Spatial Analysis: Modeling Parking Demand in SF"
 excerpt: 
 header:
-  teaser: /assets/images/sample.gif
+  teaser: /assets/images/sfParking.gif
 layout: single
 ---
 {% capture fig_img %}
-![Binomial Modeling Result]({{ "/assets/images/sample.gif" | relative_url }})
+![Binomial Modeling Result]({{ "/assets/images/portfolio-505sfparking.png" | relative_url }})
 {% endcapture %}
 
 <figure>

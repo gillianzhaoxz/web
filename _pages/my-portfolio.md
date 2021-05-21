@@ -211,11 +211,11 @@ fr_sfTOD:
     btn_class: "btn--inverse btn--small"
 
 fr_sfParking:
-  - image_path: /assets/images/sample.gif
+  - image_path: /assets/images/sfParking.gif
     alt: ""
     title: "Spatial Analysis: Modeling Parking Demand in SF"
     excerpt: "A study of how space/time features influence parking behaviors and their implications on planning practice"
-    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-sf-parking/"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-SF-parking/"
     btn_label: "Read more"
     btn_class: "btn--inverse btn--small"
 
