@@ -23,7 +23,7 @@ The intended audience is the elected officials in the region. The policy brief /
   src="G:/Github/web/assets/doc/policyBrief_FIMPC.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" 
   width="425" height="425" />
 
- <embed src="https://sumanbogati.github.io/sample.pdf" width="600px" height="500px" />
+ <embed src="https://github.com/gillianzhaoxz/web/blob/master/assets/doc/policyBrief_FIMPC.pdf" width="600px" height="500px" />
 
 <embed
   src="assets/doc/policyBrief_FIMPC.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" 
