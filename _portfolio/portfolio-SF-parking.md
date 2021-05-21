@@ -14,9 +14,9 @@ layout: single
   <figcaption>Binomial Modeling Result</figcaption>
 </figure>
 
-In a team of two, we conducted a statistical analysis on how space/time features influence parking behaviors. We also portrayed their implications on planning practice, especially to demand-responsive parking policy (smart parking). The report explains the planning motivation as well as illustrate the ensvironment features, model performance, and prediction results.
+In a team of two, we conducted a statistical analysis on how space/time features influence parking behaviors. We also portrayed their implications on planning practice, especially to demand-responsive parking policy (smart parking). The presentation provides a walkthrough of our use case, data wrangling process, two final models (OLS and binomial), findings, and discussions.
 
-Specifically, I used hydrology tools in _ArcGIS_ to turn digital elevation models (DEM) into an ordered network of streams and watersheds. From there I was able to create environment and hydrological features such as slope, basin, and distance to downstream. Then in _R studio_ I created fishnet grid areas as well as developed more meaningful variables such as distance to nearest slope and categorized slopes. After my teammate developed and validated the model, I double-checked as well as conducted spatial cross-validation. Finally, I adjusted the visualizations and turned everything into a report in _InDesign_.
+Specifically, I researched the use case and built the models in _R studio_. We found several features that are significantly associated with parking demand. Some of our findings contradicts our assummption, as it indicates that the closer to tourist attractions the lower the demand. This suggests that Smart Meters might be curbing the demand as the prices there are usually higher.
 
 [Narrated Presentation](https://youtu.be/zU5NV32CpKA){: .btn .btn--info}
 
